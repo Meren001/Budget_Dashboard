@@ -485,7 +485,7 @@ def main():
         import os
         import base64
     
-        image_path = r"C:\Users\HP\Desktop\Budget Inatitive\M&E_Dashboard\CM PIC.png"
+        image_path = "CM PIC.png"
     
         if os.path.exists(image_path):
             with open(image_path, "rb") as img_file:
