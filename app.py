@@ -473,7 +473,7 @@ def main():
     with col_title:
         st.markdown("""
         <div style='text-align: center;'>
-            <h1 style='margin-bottom: 0;'>📊 Nagaland State Budget Monitoring Dashboard</h1>
+            <h1 style='margin-bottom: 0;'>Nagaland State Budget Monitoring Dashboard</h1>
             <h3 style='margin-top: 0; color: #a8ff78;'>(Financial Year 2026-27)</h3>
         </div>
         """, unsafe_allow_html=True)
